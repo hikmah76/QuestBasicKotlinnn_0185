@@ -16,4 +16,12 @@ fun main() {
     //char
     val charValue: Char = 'A'
     println("Char: $charValue")
+
+    //boolean
+    val booleanValue: Boolean = true
+    println("Boolean: $booleanValue")
+
+    //string
+    val stringValue = "Hallo, Kotlin"
+    println("String: $stringValue")
 }
