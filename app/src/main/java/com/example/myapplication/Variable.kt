@@ -1,4 +1,7 @@
 package com.example.myapplication
 
-class Variable {
+//kode Kotlin untuk mendemonstrasikan daftar.
+fun withoutParameter() {
+    println("== withoutParameter ==")
+    println("Hello, World!")
 }
